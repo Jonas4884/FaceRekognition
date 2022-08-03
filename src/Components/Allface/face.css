@@ -1,0 +1,10 @@
+.pagination{
+    margin-top: 2rem;
+}
+.paginate{
+    color: darkgoldenrod;
+    border-radius: 2px;
+    font-family: "Yu Gothic" !important;
+    margin-left: 15px;
+    padding:5px 5px 5px 5px;
+}
