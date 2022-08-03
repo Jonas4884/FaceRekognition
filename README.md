@@ -2,9 +2,9 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-### this app calls Amazon Rekognition with user's image entered as input
-# Amazon Rekognition DetectFaces
-Returns Facial Description of at most 100 Faces with their facial analysis
+### Based on Amazon rekognition,this apps can rekognize human's face
+# Amazon Rekognition
+Returns Facial Description after faces analysis
 
 ## Available Scripts
 
